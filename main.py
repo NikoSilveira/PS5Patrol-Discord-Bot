@@ -7,7 +7,7 @@ from replit import db
 from keep_alive import keep_alive
 
 posts_to_fetch = 11 #10+1 to skip pinned msg
-frecuency = 30      #minutes
+frecuency = 5      #minutes
 
 #------------
 #   Reddit
